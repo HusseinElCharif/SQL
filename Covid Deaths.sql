@@ -1,4 +1,3 @@
-
 SELECT *
 FROM [Portfolio Project]..CovidDeaths
 WHERE continent IS NOT NULL
