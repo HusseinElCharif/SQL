@@ -1,3 +1,5 @@
+-- link for data set on kaggle: https://www.kaggle.com/datasets/jilkothari/finance-accounting-courses-udemy-13k-course?utm_source=newsletter.thequery.io&utm_medium=newsletter&utm_campaign=what-working-in-analytics-at-netflix-is-like
+
 SELECT * 
 FROM [udemy courses]
 
